@@ -1,2 +1,4 @@
 # polnikale1.github.io
-site
+Another site to develop my skillz
+
+github author page - https://github.com/polnikale
